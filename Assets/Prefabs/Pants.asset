@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 252982a33dfba3143bbe2a7afce13819, type: 3}
+  m_Name: Pants
+  m_EditorClassIdentifier: Assembly-CSharp::ItemShapeData
+  itemName: Pants
+  itemIcon: {fileID: 21300000, guid: e75634bcffe1d61468231c19f3337170, type: 3}
+  pieceColor: {r: 0.7798742, g: 0.364794, b: 0.1741228, a: 0}
+  relativeGridPositions:
+  - {x: 0, y: 0}
+  - {x: 2, y: 0}
+  - {x: 0, y: 1}
+  - {x: 2, y: 1}
+  - {x: 0, y: 2}
+  - {x: 1, y: 2}
+  - {x: 2, y: 2}
